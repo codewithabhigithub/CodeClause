@@ -1,0 +1,26 @@
+body{
+    background-image: url(image/image3.jpg) !important;
+    background-size: cover !important;
+}
+
+.header h1{
+    text-align: center !important;
+    margin-top: 30px !important;
+    margin-bottom: -10px !important;
+    font-size: 30px !important;
+    text-shadow: 2px 2px 5px rgb(255, 255, 255) !important;
+    color: white !important;
+}
+
+.form-group label{
+    font-weight: bold ;
+}
+
+#row{
+    height: 230px !important;
+}
+
+#btn{
+    margin-top: 10px !important;
+}
+
